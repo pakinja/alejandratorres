@@ -1,0 +1,24 @@
+h1.titulo {
+	text-align: center;
+	font-size: 4vw !important;
+}
+
+@media screen and (max-device-width: 600px) {
+	h1.titulo {
+		text-align: center;
+		font-size: 6vh !important;
+	}
+}
+
+
+h2.cen {
+	text-align: center;
+	font-size: 3vw !important;
+}
+
+@media screen and (max-device-width: 600px) {
+	h2.cen {
+		text-align: center;
+		font-size: 5vw !important;
+	}
+}
